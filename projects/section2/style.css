@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+}
+body{
+    background-image: url('image/download.jpeg');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h2{
+    border-width: 2px;
+    border-color: crimson;
+    border-style: solid;
+    border-radius: 25px;
+    text-align: center;
+}
+p{
+    background-color: darkgrey;
+    width: 80vw;
+    height: 500px;
+    max-height: 300px;
+    float: left;
+}
+#myheading{
+    background-color: darksalmon;
+   /*  margin-left: 100px;
+    margin-top: 100px; */
+    padding: 200 0 0 200;
+
+}
+.fontstyle{
+    font-size: 12vw;
+    font-weight: 0;
+    font-style: italic;
+    font-family: cursive;
+}
+
+#myimg{
+    float: right;
+}
