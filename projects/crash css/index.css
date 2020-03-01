@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.display-4{
+    color: rgb(16, 157, 252);
+}
+.display-4:hover{
+    color: maroon;
+}
+.mb-0:visited{
+color: yellow;
+}
+.jumbotron{
+    margin-top: 20px;
+    
+}
+.CLIENTS{
+    background-color: cadetblue;
+    padding: 20px;
+    width: 100%;
+    margin: 20px;
+    line-height: 1.6;
+    border: 3px solid rgb(8, 24, 243);
+    border-radius: 8px;
+    border-right-width: 0.5em;
+}
+ 
+    
+
+h3:hover{
+    color: maroon;
+}
+h3:active{
+    color:rgb(16, 157, 252) ;
+}
+
+h3{
+    text-decoration: underline;
+    color: moccasin;
+    word-spacing:0.5em;
+    letter-spacing: 0.2em;
+    font-style: oblique;
+    text-transform: uppercase;
+}
+p{
+    font-style: italic;
+    font-family: monospace;
+}
+
+.items{
+    background-color:cadetblue ;
+    padding: 20px;
+    width: 100%;
+    margin: 20px;
+    border: 3px solid rgb(8, 24, 243);
+    border-radius: 8px;
+    border-right-width: 0.5em;
+}
+.items h2{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.items ul{
+    list-style: none;
+    padding: 0;
+    padding-left: 20px;
+}
+.items li a{
+    color: blanchedalmond;
+    
+    text-decoration: none;
+}
+.items li a:active{
+    color: yellow;
+}
+.items li a:hover{
+    color: maroon;
+}
+.items li{
+    border-bottom: dotted 2px #3333;
+    list-style-image: url(images/5686392\ -\ apple\ iphone\ macbook\ social.png);
+    padding: 10px;
+}
+.items li:nth-child(even){
+background-color: gray;
+}
+ .FORM label{
+    display: block;
+    margin: 10px 0;
+ }
+ .FORM textarea{
+    padding: 10px;
+    width: 30;
+    margin-bottom: 10px;
+    height: 150px;
+ }
+ .FORM input[type="submit"]{
+     
+     padding: 10px;
+     color: rgb(16, 157, 252);
+     border: none;
+     background-color: mintcream;
+     
+ }
+  .FORM input[type="submit"]:hover{
+     background-color: maroon;
+    
+ }
+ .block{
+     text-decoration: none;
+     width: 33.3%;
+     float: left;
+     display: block;
+     padding: 10PX;
+     box-sizing:border-box
+ }
+ .clr{
+     clear: both;
+ }
+ .main-block{
+     width: 40%;
+     float: left;
+     margin: 20px;
+     box-sizing: border-box;
+
+ }
+ .main-side-bar{
+    width: 40%;
+    float: right;
+    background-color: rgb(16, 157, 252);
+    color: white;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+.fix-me{
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    top: 15em;
+    position: fixed;
+    right:76em ;
+    padding: 10px;
+    
+}
+#k a{
+    text-decoration: none;
+    color: white;
+}
+.fix-me:hover{
+    background-color: maroon;
+}
+
+
+span{
+    float: left;
+    padding: 30px;
+    width: 50%;
+    text-align: start;
+    
+} 
+
+ 
